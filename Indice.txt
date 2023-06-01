@@ -1,0 +1,1 @@
+﻿Codigo para realizar los procesos de migracion de datos ETL desde MT4 hacia MySql para la plataforma MLM Solutions.

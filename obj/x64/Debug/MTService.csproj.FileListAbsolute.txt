@@ -1,0 +1,32 @@
+C:\Users\anali\Downloads\Metatrader 4 Start  Example Console\bin\x64\Debug\MTService.exe.config
+C:\Users\anali\Downloads\Metatrader 4 Start  Example Console\bin\x64\Debug\MTService.exe
+C:\Users\anali\Downloads\Metatrader 4 Start  Example Console\bin\x64\Debug\MTService.pdb
+C:\Users\anali\Downloads\Metatrader 4 Start  Example Console\obj\x64\Debug\MTService.csproj.CoreCompileInputs.cache
+C:\Users\anali\Downloads\Metatrader 4 Start  Example Console\obj\x64\Debug\MTService.csproj.CopyComplete
+C:\Users\anali\Downloads\Metatrader 4 Start  Example Console\obj\x64\Debug\MTService.exe
+C:\Users\anali\Downloads\Metatrader 4 Start  Example Console\obj\x64\Debug\MTService.pdb
+C:\Users\anali\Dropbox\Mi PC (DESKTOP-MPQ9QP2)\Desktop\mlm\MTService\obj\x64\Debug\MTService.csproj.CoreCompileInputs.cache
+C:\Users\anali\Dropbox\Mi PC (DESKTOP-MPQ9QP2)\Desktop\mlm\MTService\bin\x64\Debug\MTService.exe.config
+C:\Users\anali\Dropbox\Mi PC (DESKTOP-MPQ9QP2)\Desktop\mlm\MTService\bin\x64\Debug\MTService.exe.manifest
+C:\Users\anali\Dropbox\Mi PC (DESKTOP-MPQ9QP2)\Desktop\mlm\MTService\bin\x64\Debug\MTService.application
+C:\Users\anali\Dropbox\Mi PC (DESKTOP-MPQ9QP2)\Desktop\mlm\MTService\bin\x64\Debug\MTService.exe
+C:\Users\anali\Dropbox\Mi PC (DESKTOP-MPQ9QP2)\Desktop\mlm\MTService\bin\x64\Debug\MTService.pdb
+C:\Users\anali\Dropbox\Mi PC (DESKTOP-MPQ9QP2)\Desktop\mlm\MTService\obj\x64\Debug\MTService.exe.manifest
+C:\Users\anali\Dropbox\Mi PC (DESKTOP-MPQ9QP2)\Desktop\mlm\MTService\obj\x64\Debug\MTService.application
+C:\Users\anali\Dropbox\Mi PC (DESKTOP-MPQ9QP2)\Desktop\mlm\MTService\obj\x64\Debug\MTService.csproj.CopyComplete
+C:\Users\anali\Dropbox\Mi PC (DESKTOP-MPQ9QP2)\Desktop\mlm\MTService\obj\x64\Debug\MTService.exe
+C:\Users\anali\Dropbox\Mi PC (DESKTOP-MPQ9QP2)\Desktop\mlm\MTService\obj\x64\Debug\MTService.pdb
+C:\Users\anali\Dropbox\Mi PC (DESKTOP-MPQ9QP2)\Desktop\mlm\MTService\obj\x64\Debug\MTService.csproj.AssemblyReference.cache
+C:\tmp\MTService\obj\x64\Debug\MTService.csproj.AssemblyReference.cache
+C:\tmp\MTService\obj\x64\Debug\MTService.csproj.SuggestedBindingRedirects.cache
+C:\tmp\MTService\obj\x64\Debug\MTService.csproj.CoreCompileInputs.cache
+C:\tmp\MTService\obj\x64\Debug\MTService.exe
+C:\tmp\MTService\obj\x64\Debug\MTService.pdb
+C:\tmp\MTService\bin\x64\Debug\MTService.exe.config
+C:\tmp\MTService\bin\x64\Debug\MTService.exe.manifest
+C:\tmp\MTService\bin\x64\Debug\MTService.application
+C:\tmp\MTService\bin\x64\Debug\MTService.exe
+C:\tmp\MTService\bin\x64\Debug\MTService.pdb
+C:\tmp\MTService\obj\x64\Debug\MTService.exe.manifest
+C:\tmp\MTService\obj\x64\Debug\MTService.application
+C:\tmp\MTService\obj\x64\Debug\MTService.csproj.CopyComplete

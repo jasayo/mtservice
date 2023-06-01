@@ -1,0 +1,48 @@
+0	2021.08.23 11:51:37.416		MetaTrader 4 Manager API build 1320 initialized
+0	2021.08.23 11:51:37.582	213.175.208.159:443	Connect
+0	2021.08.23 11:51:37.805	213.175.208.159:443	'100': login (server build 1335)
+0	2021.08.23 11:51:38.351	213.175.208.159:443	'100': request manager common
+0	2021.08.23 11:51:38.512	213.175.208.159:443	'100': request 15 total users
+0	2021.08.23 11:52:23.613	213.175.208.159:443	'100': request user trade history (20 trades)
+0	2021.08.23 11:52:52.352	213.175.208.159:443	'100': request user trade history (12 trades)
+0	2021.08.23 11:53:09.092	213.175.208.159:443	'100': request user trade history (9 trades)
+0	2021.08.23 11:53:22.181	213.175.208.159:443	'100': request user trade history (9 trades)
+0	2021.08.23 11:53:34.872	213.175.208.159:443	'100': request user trade history (14 trades)
+0	2021.08.23 11:53:55.016	213.175.208.159:443	'100': request user trade history (17 trades)
+0	2021.08.23 11:54:20.359	213.175.208.159:443	'100': request user trade history (17 trades)
+0	2021.08.23 11:54:44.350	213.175.208.159:443	'100': request user trade history (43 trades)
+0	2021.08.23 11:55:45.620	213.175.208.159:443	'100': request user trade history (32 trades)
+0	2021.08.23 11:56:31.034	213.175.208.159:443	'100': request user trade history (37 trades)
+0	2021.08.23 11:57:23.517	213.175.208.159:443	'100': request user trade history (25 trades)
+0	2021.08.23 11:57:58.616	213.175.208.159:443	'100': request user trade history (1 trades)
+0	2021.08.23 11:58:00.342	213.175.208.159:443	'100': request user trade history (1 trades)
+1	2021.08.23 11:58:02.084	213.175.208.159:443	'100': request user trade history (0 trades) (OK/None)
+0	2021.08.23 11:58:02.393	213.175.208.159:443	'100': request user trade history (2 trades)
+0	2021.08.23 11:58:05.307	213.175.208.159:443	'100': disconnect
+0	2021.08.23 11:58:05.307		Remove: manager 1DD336C0
+0	2021.08.23 11:58:44.813		Unload: manager 1DC66610 not released
+0	2021.08.23 11:58:44.813		Remove: manager 1DC66610
+0	2021.08.23 11:59:08.482		MetaTrader 4 Manager API build 1320 initialized
+0	2021.08.23 11:59:08.645	213.175.208.159:443	Connect
+0	2021.08.23 11:59:08.907	213.175.208.159:443	'100': login (server build 1335)
+0	2021.08.23 11:59:09.375	213.175.208.159:443	'100': request manager common
+0	2021.08.23 11:59:09.535	213.175.208.159:443	'100': request 15 total users
+0	2021.08.23 11:59:53.420	213.175.208.159:443	'100': request user trade history (20 trades)
+0	2021.08.23 12:00:21.848	213.175.208.159:443	'100': request user trade history (12 trades)
+0	2021.08.23 12:00:39.528	213.175.208.159:443	'100': request user trade history (9 trades)
+0	2021.08.23 12:00:52.926	213.175.208.159:443	'100': request user trade history (9 trades)
+0	2021.08.23 12:01:06.186	213.175.208.159:443	'100': request user trade history (14 trades)
+0	2021.08.23 12:01:26.758	213.175.208.159:443	'100': request user trade history (17 trades)
+0	2021.08.23 12:01:51.519	213.175.208.159:443	'100': request user trade history (17 trades)
+0	2021.08.23 12:02:15.606	213.175.208.159:443	'100': request user trade history (43 trades)
+0	2021.08.23 12:03:14.834	213.175.208.159:443	'100': request user trade history (32 trades)
+0	2021.08.23 12:04:00.350	213.175.208.159:443	'100': request user trade history (37 trades)
+0	2021.08.23 12:04:53.175	213.175.208.159:443	'100': request user trade history (25 trades)
+0	2021.08.23 12:05:29.015	213.175.208.159:443	'100': request user trade history (1 trades)
+0	2021.08.23 12:05:30.793	213.175.208.159:443	'100': request user trade history (1 trades)
+1	2021.08.23 12:05:32.594	213.175.208.159:443	'100': request user trade history (0 trades) (OK/None)
+0	2021.08.23 12:05:32.909	213.175.208.159:443	'100': request user trade history (2 trades)
+0	2021.08.23 12:05:35.871	213.175.208.159:443	'100': disconnect
+0	2021.08.23 12:05:35.871		Remove: manager 79E32E70
+0	2021.08.23 12:08:04.242		Unload: manager 79E29290 not released
+0	2021.08.23 12:08:04.242		Remove: manager 79E29290

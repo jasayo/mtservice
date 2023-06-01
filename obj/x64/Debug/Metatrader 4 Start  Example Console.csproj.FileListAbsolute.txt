@@ -1,0 +1,19 @@
+C:\Users\Carlos Ladino\OneDrive\Desktop\Metatrader Start Projects\Metatrader 4 Start  Example Console\bin\x64\Debug\Metatrader 4 Start  Example Console.exe.config
+C:\Users\Carlos Ladino\OneDrive\Desktop\Metatrader Start Projects\Metatrader 4 Start  Example Console\bin\x64\Debug\Metatrader 4 Start  Example Console.exe
+C:\Users\Carlos Ladino\OneDrive\Desktop\Metatrader Start Projects\Metatrader 4 Start  Example Console\bin\x64\Debug\Metatrader 4 Start  Example Console.pdb
+C:\Users\Carlos Ladino\OneDrive\Desktop\Metatrader Start Projects\Metatrader 4 Start  Example Console\bin\x64\Debug\MT4Manager.dll
+C:\Users\Carlos Ladino\OneDrive\Desktop\Metatrader Start Projects\Metatrader 4 Start  Example Console\bin\x64\Debug\MT4Manager.pdb
+C:\Users\Carlos Ladino\OneDrive\Desktop\Metatrader Start Projects\Metatrader 4 Start  Example Console\obj\x64\Debug\Metatrader 4 Start  Example Console.csprojAssemblyReference.cache
+C:\Users\Carlos Ladino\OneDrive\Desktop\Metatrader Start Projects\Metatrader 4 Start  Example Console\obj\x64\Debug\Metatrader 4 Start  Example Console.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Ladino\OneDrive\Desktop\Metatrader Start Projects\Metatrader 4 Start  Example Console\obj\x64\Debug\Metatrader 4 Start  Example Console.csproj.CopyComplete
+C:\Users\Carlos Ladino\OneDrive\Desktop\Metatrader Start Projects\Metatrader 4 Start  Example Console\obj\x64\Debug\Metatrader 4 Start  Example Console.exe
+C:\Users\Carlos Ladino\OneDrive\Desktop\Metatrader Start Projects\Metatrader 4 Start  Example Console\obj\x64\Debug\Metatrader 4 Start  Example Console.pdb
+C:\Users\anali\Downloads\Metatrader 4 Start  Example Console\bin\x64\Debug\Metatrader 4 Start  Example Console.exe.config
+C:\Users\anali\Downloads\Metatrader 4 Start  Example Console\bin\x64\Debug\Metatrader 4 Start  Example Console.exe
+C:\Users\anali\Downloads\Metatrader 4 Start  Example Console\bin\x64\Debug\Metatrader 4 Start  Example Console.pdb
+C:\Users\anali\Downloads\Metatrader 4 Start  Example Console\bin\x64\Debug\MT4Manager.pdb
+C:\Users\anali\Downloads\Metatrader 4 Start  Example Console\obj\x64\Debug\Metatrader 4 Start  Example Console.csproj.AssemblyReference.cache
+C:\Users\anali\Downloads\Metatrader 4 Start  Example Console\obj\x64\Debug\Metatrader 4 Start  Example Console.csproj.CoreCompileInputs.cache
+C:\Users\anali\Downloads\Metatrader 4 Start  Example Console\obj\x64\Debug\Metatrader 4 Start  Example Console.csproj.CopyComplete
+C:\Users\anali\Downloads\Metatrader 4 Start  Example Console\obj\x64\Debug\Metatrader 4 Start  Example Console.exe
+C:\Users\anali\Downloads\Metatrader 4 Start  Example Console\obj\x64\Debug\Metatrader 4 Start  Example Console.pdb

@@ -1,0 +1,11 @@
+0	2021.07.17 22:45:09.032		MetaTrader 4 Manager API build 1320 initialized
+0	2021.07.17 22:45:09.196	213.175.208.159:443	Connect
+0	2021.07.17 22:45:09.467	213.175.208.159:443	'100': login (server build 1335)
+0	2021.07.17 22:45:09.941	213.175.208.159:443	'100': request manager common
+0	2021.07.17 22:45:10.102	213.175.208.159:443	'100': request 17 total users
+0	2021.07.17 22:45:10.427	213.175.208.159:443	'100': request user trade history (16 trades)
+0	2021.07.18 00:13:59.169		Unload: manager E97A3EC0 not released
+0	2021.07.18 00:13:59.281	213.175.208.159:443	'100': disconnect
+0	2021.07.18 00:13:59.281		Remove: manager E97A3EC0
+0	2021.07.18 00:13:59.281		Unload: manager E979A2E0 not released
+0	2021.07.18 00:13:59.281		Remove: manager E979A2E0
